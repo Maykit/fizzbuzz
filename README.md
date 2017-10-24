@@ -1,0 +1,1 @@
+Fizzbuzz homework for smartNinja
